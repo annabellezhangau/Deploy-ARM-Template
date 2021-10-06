@@ -1,1 +1,2 @@
 # Deploy-ARM-Template
+push
